@@ -2,14 +2,17 @@ A total of 7 Red-Eyes support cards made by Beil196 and scripted by me (XAX4). T
 
 Included cards:
   Crimson Eyes Abyssal Dragon
+  
     DARK Dragon
     Synchro Effect
     Level 9
-    1 Tuner + 1+ non-Tuner "Red-Eyes" monsters	
-    (This card is always treated as a "Red-Eyes" card) Your opponent cannot activate effects in the GY. Once per turn (Quick-Effect): 
-    You can pay 2000 LP; banish all cards in your opponent's GY.
+    1 Tuner + 1+ non-Tuner "Red-Eyes" monsters 
+    (This card is always treated as a "Red-Eyes" card) 
+    Your opponent cannot activate effects in the GY. Once per turn (Quick-Effect): You can pay 2000 LP; banish all cards in your 
+    opponent's GY.
 
   Red-Eyes Tyrant Dragon
+  
     DARK Dragon
     Fusion Effect
     Level 10
@@ -19,6 +22,7 @@ Included cards:
     original ATK of the attacking monster until the end of the Battle Phase.
 
   Red-Eyes Dark Flare Dragon
+  
     DARK Dragon
     Xyz Effect
     Rank 10
@@ -30,14 +34,16 @@ Included cards:
     "Red-Eyes" monster on the field and in either GY.
 
   Spirit with Eyes of Red
+  
     DARK Dragon
     Tuner Effect
     Level 2
-    (This card is always treated as a "Red-Eyes" card) If you control no monsters, you can Special Summon this card (from your hand). You can 
-    pay 1000 LP, then Tribute this card; Special Summon 2 level 3 or lower "Red-Eyes" monsters or monsters that mention "Red-Eyes" from your Deck 
-    or GY.
+    (This card is always treated as a "Red-Eyes" card) 
+    If you control no monsters, you can Special Summon this card (from your hand). You can pay 1000 LP, then Tribute this card; Special Summon 
+    2 level 3 or lower "Red-Eyes" monsters or monsters that mention "Red-Eyes" from your Deck or GY.
 
   Red-Eyes Necroflare Dragon
+  
     DARK Zombie
     Fusion Effect
     Level 7
@@ -48,6 +54,7 @@ Included cards:
     Return this card to the Extra Deck; equip a face-up card your opponent controls to a monster you control.
 
   Red-Eyes Necromancer
+  
     DARK Spellcaster
     Effect
     Level 7
@@ -58,6 +65,7 @@ Included cards:
     "Polymerization" Spell Card from your field or GY; apply that card's effect as if you activated it.
 
   Red-Eyes Full Metal Flare Dragon
+  
     DARK Dragon
     Xyz Effect
     Rank 8
